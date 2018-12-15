@@ -96,7 +96,7 @@ body,td,th {
           
         </div>
       </li>
-            <li><a href="#contact">Escuela</a></li>
+            <li><a href="http://www.escuelanacionalfitness.com/plataforma/">Escuela</a></li>
             
         </ul>
         <a class="res-nav_click" href="#"><i class="fa-bars"></i></a>
