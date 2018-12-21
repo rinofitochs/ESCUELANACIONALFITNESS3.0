@@ -510,7 +510,7 @@ body,td,th {
                 	
                     <div id="sendmessage">Your message has been sent. Thank you!</div>
                     <div id="errormessage"></div>
-                    <form action="" method="post" role="form" class="contactForm">
+                    <form action="contactform/correo.php" method="post" role="form" class="contactForm">
                         <div class="form-group">
                             <input type="text" name="name" class="form-control input-text" id="name" placeholder="Nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                             <div class="validation"></div>
@@ -524,7 +524,7 @@ body,td,th {
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control input-text text-area" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
+                            <textarea class="form-control input-text text-area" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje y añade tu correo al final "></textarea>
                             <div class="validation"></div>
                         </div>
                         
