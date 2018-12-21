@@ -84,8 +84,6 @@ body,td,th {
       </li>
             <li><a href="#Portfolio">Cursos</a></li>
             <li class="small-logo"><a href="#header"><img src="img/small-logo1.png" alt=""></a></li>
-            <li><a href="#client">Testimonios</a></li>
-            <li><a href="#team">Avales</a></li>
             <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Contacto
@@ -96,6 +94,9 @@ body,td,th {
           
         </div>
       </li>
+            <li><a href="#client">Testimonios</a></li>
+            <li><a href="#team">Avales</a></li>
+            
             <li><a href="http://www.escuelanacionalfitness.com/plataforma/">Escuela</a></li>
             
         </ul>
@@ -392,10 +393,10 @@ body,td,th {
         </div>
     	<ul class="client wow fadeIn delay-05s">
         	<li><a href="#">
-            	<img src="img/client-pic1.jpg" alt="">
+            	<img src="img/CEO RODOLFO.jpg" alt="">
             <h3 ><strong>Rodolfo López</strong></h3>
                 <span><strong>CEO ESCUELA NACIONAL FITNESS 2.0</strong></span>
-            </a></li>
+          </a></li>
         </ul>
     </div>
 </section><!--main-section client-part-end-->
