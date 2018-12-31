@@ -38,6 +38,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--fin codigo fafa-->
 <style type="text/css">
+#cursogratis{
+	color:#F00;
+	}
 body,td,th {
 	font-family: "Open Sans", sans-serif;
 }
@@ -101,7 +104,17 @@ body,td,th {
           <a class="dropdown-item" href="#mision">Misión y Visión</a>
         </div>
       </li>
-            <li><a href="#Portfolio">Cursos</a></li>
+           <!-- <li><a href="#Portfolio">Cursos</a></li>-->
+            <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Cursos
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://escuelanacionalfitness.com/promo/"><span id="cursogratis" >Curso Gratis</span></a>
+          <a class="dropdown-item" href="#Portfolio">Todos los cursos</a>
+          
+        </div>
+      </li>
             <li class="small-logo"><a href="#header"><img src="img/small-logo1.png" alt=""></a></li>
             <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
